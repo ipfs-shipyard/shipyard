@@ -4,4 +4,4 @@
   </a>
 </h1>
 
-### IPFS Shipyard is a space for us to incubate new ideas, experiments, and create specialized repositories that do not belong to the core of the IPFS Protocol. These projects deserve its own dedicated Github Org, so that these don't sunk under the hundreds of repos existent the IPFS, libp2p, IPLD and multiformats Github orgs.
+### IPFS Shipyard is a venue for the community to pursue and collaborate on research experiments, products, code libraries and more. It is where innovation in userland happens, where we build new products, services and where we discover and construct new primitives to push to the core of IPFS.
